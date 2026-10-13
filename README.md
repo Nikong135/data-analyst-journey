@@ -13,5 +13,5 @@
 
 ---
 
-## 📈 Weekly Log
-- [x] **Week 1:** Set up repository & started University of Helsinki Python MOOC (Part 1).
+## 📈 Daily Log
+- [x] **13-Oct-2026 :** Set up repository & Completed University of Helsinki Python MOOC Part 1 -3 (balance around parenting duties!).
