@@ -15,3 +15,4 @@
 
 ## 📈 Daily Log
 - [x] **13-Oct-2026 :** Set up repository & Completed University of Helsinki Python MOOC Part 1 -3 (balance around parenting duties!).
+- [x] **15-17 Oct-2026:** Completed Helsinki Python MOOC Parts 4 & 5 (Functions, Lists, References, and Objects).
